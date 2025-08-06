@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>마비노기 숙제 체크리스트</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+    th { background-color: #f0f0f0; }
+    input[type="checkbox"] { width: 20px; height: 20px; }
+  </style>
+</head>
+<body>
+  <h1>마비노기 숙제 체크리스트</h1>
+  <h2>1계정</h2>
+  <table>
+    <tr>
+      <th>캐릭터</th>
+      <th>검은구멍 (3회)</th>
+      <th>아르바이트</th>
+      <th>결계 (2회)</th>
+      <th>심층 던전</th>
+      <th>일반 던전</th>
+      <th>망령의 탑</th>
+      <th>일일 미션</th>
+      <th>캐시샵: 염색</th>
+      <th>캐시샵: 보석</th>
+      <th>캐시샵: 은동전</th>
+    </tr>
+    <tr><td>멀리서때려요</td><td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>StellaMae</td>     <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>Rush9</td>         <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>Arah</td>          <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+  </table>
+
+  <h2>2계정</h2>
+  <table>
+    <tr>
+      <th>캐릭터</th>
+      <th>검은구멍 (3회)</th>
+      <th>아르바이트</th>
+      <th>결계 (2회)</th>
+      <th>심층 던전</th>
+      <th>일반 던전</th>
+      <th>망령의 탑</th>
+      <th>일일 미션</th>
+      <th>캐시샵: 염색</th>
+      <th>캐시샵: 보석</th>
+      <th>캐시샵: 은동전</th>
+    </tr>
+    <tr><td>가아라</td>    <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>꼽아라</td>    <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>윤아라</td>    <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+    <tr><td>쪼아라</td>    <td><input type="checkbox"> <input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"> <input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
+  </table>
+</body>
+</html>
